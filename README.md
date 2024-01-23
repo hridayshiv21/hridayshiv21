@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hriday Shankar Tripathi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning GTML,CSS,JS,PHP.
+- 🌱 I’m currently learning Software Development with java,Python and HTML,CSS,JavaScript,PHP.
 - 💞️ I’m looking to collaborate on Web Development Project
 - 📫 How to reach me ...
 - echo "# Octanet-Internship-project" >> README.md
